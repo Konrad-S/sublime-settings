@@ -1,0 +1,22 @@
+{
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"index_files": true,
+	"color_scheme": "Monokai.sublime-color-scheme",
+
+	"translate_tabs_to_spaces": true,
+	"theme": "auto",
+
+
+	"word_separators": "_./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+
+	"settings":{
+		"color_scheme": "User/KonradCPP.sublime-color-scheme",
+	},
+}

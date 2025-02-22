@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+
+	{ "keys": ["ctrl+backspace"], "command": "delete_word", "args": {"by": "subwords", "forward": false } },
+	{ "keys": ["alt+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+s"], "command": "save_all"},
+]
