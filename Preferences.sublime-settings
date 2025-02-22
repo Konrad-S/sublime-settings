@@ -15,8 +15,4 @@
 
 
 	"word_separators": "_./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-
-	"settings":{
-		"color_scheme": "User/KonradCPP.sublime-color-scheme",
-	},
 }
